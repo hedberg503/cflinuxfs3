@@ -57,6 +57,7 @@ libllvm6.0
 liblockfile-bin
 liblockfile1
 liblog-message-simple-perl
+libmagick++-dev
 libmagic1
 libmagickwand-dev
 libmariadb-dev-compat
@@ -83,6 +84,7 @@ libssl-dev
 libsysfs2
 libtasn1-6-dev
 libterm-ui-perl
+libudunits2-dev
 libustr-1.0-1
 libxdot4
 libxslt1-dev
